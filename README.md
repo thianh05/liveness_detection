@@ -35,4 +35,4 @@ jupyter lab Face_Liveness_Detection.ipynb      # Run All từ đầu; mục 5 m�
 
 ## Tài liệu
 
-Tóm tắt kiến thức [docs/tom_tat_kien_thuc.pdf](docs/tom_tat_kien_thuc.pdf)
+Tóm tắt kiến thức [docs/full công thức.pdf](<docs/full công thức.pdf>)
